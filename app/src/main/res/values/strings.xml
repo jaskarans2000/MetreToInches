@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MetreToInches</string>
+    <string name="button_name">converted</string>
+    <string name="empty_String">Please enter a valid number</string>
+</resources>
